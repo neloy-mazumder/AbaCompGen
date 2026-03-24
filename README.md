@@ -14,7 +14,7 @@ A fully reproducible, end-to-end bioinformatics pipeline for comparative genomic
 | 10 | Pan-genome (Roary) | Paper mentions open pan-genome but never quantifies it; provides core/accessory/cloud gene counts and Heaps' law alpha |
 | 11 | GTDB-Tk phylogenomics | More robust GTDB-based taxonomic placement than SNP tree alone |
 | 11 | Temporal ARG trend analysis | Tracks ARG acquisition and blaOXA-23 prevalence across collection years (2005–2020) |
-| 12 | `advanced_analysis.R` — 23 figures | Replaces a basic 7-figure script with a full publication suite: alluvial epidemiology flows, IS–ARG distance, forest plot regression, annotated phylogeny, ridge plots, treemaps, and a complete statistical report |
+| 12 | `advanced_analysis.R` — 23 figures |  Alluvial epidemiology flows, IS–ARG distance, forest plot regression, annotated phylogeny, ridge plots, treemaps, and a complete statistical report |
 
 ---
 
